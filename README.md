@@ -1,1 +1,30 @@
 # Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions
+# 👗 Machine Learning Fashion Assistant  
+### Personalized Color-Based Outfit Suggestions  
+
+## 📌 Overview  
+This project is a **fashion assistant** that detects **skin tone and eye color** from user-uploaded images and recommends **personalized outfit colors** based on detected features. It also allows users to **save favorite outfits** and interact with a **user-friendly web interface**.
+
+##  Features  
+1. **Skin Tone & Eye Color Detection**: Uses **Deep Learning & OpenCV** to analyze facial features.  
+2. **Color Palette Generation**: Uses **K-Means clustering** to extract a **personalized color palette**.  
+3. **Outfit Recommendation System**: Uses **Content-Based & Hybrid Filtering** for recommendations.  
+4. **Wishlist Feature**: Users can **save favorite outfits** for future reference.  
+5. **Web-Based Interface**: Developed using **React.js (Frontend)** and **FastAPI (Backend)**.  
+
+---
+
+##  Installation Guide  
+
+### **Clone the Repository**  
+```sh
+git clone https://github.com/your-username/Fashion-Assistant.git
+cd color_analysis
+cd frontend 
+npm run start 
+
+
+cd backend 
+npm start
+
+python -m uvicorn app:app —reload
