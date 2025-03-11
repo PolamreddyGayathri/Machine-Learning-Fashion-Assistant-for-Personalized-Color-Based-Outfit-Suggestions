@@ -18,7 +18,7 @@ This project is a **fashion assistant** that detects **skin tone and eye color**
 
 ### **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/Fashion-Assistant.git
+git clone (https://github.com/PolamreddyGayathri/Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions)
 cd color_analysis
 cd frontend 
 npm run start 
