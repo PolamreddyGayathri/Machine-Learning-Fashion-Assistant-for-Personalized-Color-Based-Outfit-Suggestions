@@ -1,0 +1,1698 @@
+[
+    {
+        "gender": "male",
+        "colors": [
+            {
+                "value": "#FFDDC1",
+                "color": "Light Peach",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://i.postimg.cc/4y7vK7Kz/comsf614od08405-p4-0.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Chinos",
+                        "price": "$34.99",
+                        "image": "https://i.postimg.cc/9FBrXCbx/ch1006-2-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Blazer",
+                        "price": "$45.99",
+                        "image": "https://i.postimg.cc/kMKycRMB/SBL3640-1.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Loafers",
+                        "price": "$59.99",
+                        "image": "https://i.postimg.cc/D0wy8bBB/201667684-product-1725614715304-500x500.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4E1",
+                "color": "Misty Rose",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/fb1r34CF/4260-207-Tufte-W-Robin-Polo-Sweater-Misty-Rose-Front.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/SQncT2yW/TS007-W03-TS804-3-d8d98125-9aa8-46f6-a7a7-3c3c06da94c7.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jacket",
+                        "price": "$69.99",
+                        "image": "https://i.postimg.cc/fL2j3YMb/teddy-fleece-jacket-with-hood-in-misty-rose-color-kids-600x.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Dress Pants",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/TY97G5Dp/adda-mens-track-pant-ash-rose141020241-2762de6b-bbdb-44d5-8d96-8ec05f106b65-grande.jpg",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#FFB6C1",
+                "color": "Light Pink",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/nV5V2Mz9/light-pink-t-shirt-for-mens-online-in-india-franky-bros-brand.webp",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/HsdmB5mx/1697712580-606609516-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Baseball Cap",
+                        "price": "$15.99",
+                        "image": "https://i.postimg.cc/hvqXCj4B/7c9f3058-098e-452f-a265-ac0d26f4a1f2-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Bomber Jacket",
+                        "price": "$75.99",
+                        "image": "https://i.postimg.cc/V6Z7Mxzn/350740d0-b98d-43cb-8ab7-3c9ed7e4875b-500x500.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "color": "Pink",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/nLBjqBZk/untitled-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/0N4v5HhX/whatsapp-image-2024-08-13-at-4-51-46-pm-1-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Running Shoes",
+                        "price": "$55.99",
+                        "image": "https://i.postimg.cc/Y0qzXbCk/product-jpeg-500x500.jpg",
+                        "category": "sports"
+                    },
+                    {
+                        "name": "Gym Shorts",
+                        "price": "$25.99",
+                        "image": "https://i.postimg.cc/nLS717P9/new-product-500x500.jpg",
+                        "category": "sports"
+                    }
+                ]
+            },
+            {
+                "value": "#FFDAB9",
+                "color": "Peach Puff",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://i.postimg.cc/2SVCZZhK/men-peach-cotton-polo-t-shirt-500x500.png",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://i.postimg.cc/FRqBwY77/mens-short-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sandals",
+                        "price": "$29.99",
+                        "image": "https://i.postimg.cc/2ynNwQ2z/ND-Cork-Sandals-Blush-Pink-Web-Optimized-a.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Casual Jacket",
+                        "price": "$58.99",
+                        "image": "https://i.postimg.cc/26w4BMfm/men-peach-windcheater-jacket-500x500.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFEFD5",
+                "color": "Papaya Whip",
+                "clothes": [
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://m.media-amazon.com/images/I/31SoGJB-i8L.AC_SY1000.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Ft-shirt%2FColor-Papaya-whip-FFEFD5-Orange-by-ColorsVisuals%2F146617401.1YYVU&psig=AOvVaw0R_QMOLED8QQgbDPWpfrxX&ust=1740811104543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCsl_Pg5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Flip Flops",
+                        "price": "$14.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dhgate.com%2Fgoods%2F1001188767.html&psig=AOvVaw0bl009miXHp-dgQDdhV4WF&ust=1740811152561000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjomojh5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sun Hat",
+                        "price": "$22.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fgustave-mens-sun-hat-wide-brim-summer-cap-uv-protection-fishsing-bucket%2Fp%2Fitm73c89c7d30270&psig=AOvVaw1j21hD4gSK6u4qhbaF3a5c&ust=1740811198525000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjh753h5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF8DC",
+                "color": "Cornsilk",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://is4.revolveassets.com/images/p4/n/tv/LEIV-MJ12_V1.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrends.ajio.com%2Fnetplay-textured-jacket-with-fur-lined-collar%2Fp%2F440991797_ltbrown&psig=AOvVaw2TutGsMXzK69OUhKxEIuVI&ust=1740811282759000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICWg8zh5YsDFQAAAAAdAAAAABAE",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Belt",
+                        "price": "$15.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FBrajin-Naylon-Fabric-Unisex-Colour-Cream%2Fdp%2FB0C5TL2K1K&psig=AOvVaw3R1gIn9A0tlWhA2tDT9HHV&ust=1740811349754000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODbwOTh5YsDFQAAAAAdAAAAABAE",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Casual Shoes",
+                        "price": "$42.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsummer-comfortable-casual-shoes-mens-canvas-shoes-shopatronics--810085051710151012%2F&psig=AOvVaw0nDPOIocfRNGD4lKzSQybJ&ust=1740811385932000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCk5vTh5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "color": "Lemon Chiffon",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVhgBiyJVZzgXAkV9SCy11TGusNCzOG7vpA&s",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbling-k.en.made-in-china.com%2Fproduct%2FBvMEJrGAsZhx%2FChina-50-Cotton-50-Linen-Lemon-Yellow-Knitted-Sweater-Pullover-Sweater-Men-Clothing.html&psig=AOvVaw2ZMN-jSKV7J2K18cPWwM0G&ust=1740811472754000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODPjaDi5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Dress Pants",
+                        "price": "$49.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tatacliq.com%2Fhangup-lemon-yellow-regular-fit-flat-front-trousers%2Fp-mp000000019366708&psig=AOvVaw0GuQ6b_XPmhRoVLALm8fjG&ust=1740811524623000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD5tLji5YsDFQAAAAAdAAAAABAE",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Dress Shoes",
+                        "price": "$58.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flemon-meringue-mens-shoes-vintage-yellow-boss-hush-puppies-nib--331788697523337658%2F&psig=AOvVaw04f-RXmdi8DzVMNsliZTEU&ust=1740811561134000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC1t8ni5YsDFQAAAAAdAAAAABAE",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFFE0",
+                "color": "Light Yellow",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://static.wixstatic.com/media/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg/v1/fill/w_480,h_720,al_c,q_0.66_1.00_0.01,enc_auto/0efa99_f4ccb2f9012b4b77be8d56a03ec3cda4~mv2.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffrankybros.com%2Fplain-light-yellow-t-shirt%2F&psig=AOvVaw0_VQ5zFCeCbIrg6GTMBRri&ust=1740811614190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD2yeLi5YsDFQAAAAAdAAAAABAZ",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sports Jacket",
+                        "price": "$65.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsportsgoodsmarket.com%2Fproduct%2Fjust-sporty-jacket%2F&psig=AOvVaw3ujwd_VzdmLjQHiTYWPYDX&ust=1740811817314000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCmucfj5YsDFQAAAAAdAAAAABAE",
+                        "category": "sports"
+                    },
+                    {
+                        "name": "Running Shoes",
+                        "price": "$55.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FASICS-Gel-Nimbus-Bright-Yellow-Running%2Fdp%2FB0CN35PF81&psig=AOvVaw3UKEshYD4ARniMjanBod2O&ust=1740811870740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiQtd3j5YsDFQAAAAAdAAAAABAE",
+                        "category": "sports"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF5EE",
+                "color": "Sea Shell",
+                "clothes": [
+                    {
+                        "name": "Sneakers",
+                        "price": "$59.99",
+                        "image": "https://i.etsystatic.com/32028882/r/il/bff379/3765898967/il_570xN.3765898967_hht4.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://i.postimg.cc/wjsMR5Tf/men-light-blue-cotton-shorts-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$35.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstateofmatterapparel.com%2Fcollections%2Fmens-polo-shirts&psig=AOvVaw0h_cLp7YVTxjqfSMrI68cn&ust=1740811995727000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCkrpnk5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Cap",
+                        "price": "$12.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fmen-sky-blue-summer-cap-23230087633.html&psig=AOvVaw1u6gF0EtOnElAom1tYyn6q&ust=1740812095880000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiM5cfk5YsDFQAAAAAdAAAAABAE",
+                        "category": "accessory"
+                    }
+                ]
+            },
+            {
+                "value": "#87CEEB",
+                "color": "Sky Blue",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://imagescdn.thecollective.in/img/app/product/9/984135-13000982.jpg?w=500&auto=format",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fmens-sky-blue-hooded-sweatshirt-20505339891.html&psig=AOvVaw0l479-dCH7ZgRs7yaj-0cO&ust=1740812160373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDMuebk5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Watch",
+                        "price": "$129.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdream-watches.com%2Fproducts%2Fspecht-sohne-new-classic-quartz-mens-watches-stainless-steel-watch-sapphire-business-sports-wrist-watches-50m-waterproof-3&psig=AOvVaw2oTo9wgbru9bPk3EWOd_hT&ust=1740812195791000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCZ_Pjk5YsDFQAAAAAdAAAAABAE",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Sneakers",
+                        "price": "$88.99",
+                        "image": "https://example.com/images/sky-blue-sneakers.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#ADD8E6",
+                "color": "Light Blue",
+                "clothes": [
+                    {
+                        "name": "Vest",
+                        "price": "$49.99",
+                        "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff8%2F3c%2Ff83c3d9c78394fd2fd0f95a77ebaf7996e76385a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_tanks%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fmens-round-neck-light-blue-t-shirt-22719022973.html&psig=AOvVaw0pdFJxrfE9aaP6RRq-Mpz6&ust=1740812301984000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDZxK_l5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Denim Jacket",
+                        "price": "$74.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tradeindia.com%2Fproducts%2Fcasual-torn-cotton-denim-lycra-denim-jacket-for-mens-light-blue-7808457.html&psig=AOvVaw0YPcuUMm3E_E_jBZKv4qkk&ust=1740812391513000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiCx93l5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$55.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fspykar.com%2Fproducts%2Fmdss2bc002lightblue&psig=AOvVaw3yPZUzMgbG-u7dwZk7CWY4&ust=1740812447536000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDmmfDl5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#B0E0E6",
+                "color": "Powder Blue",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gobicashmere.com%2Fus%2Fproducts%2Fmens-v-neck-sweater-light-blue%2F&psig=AOvVaw0LE8zR56540W1MovV_mj6f&ust=1740815794026000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjtuqvy5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Furbano-plus-regular-men-light-blue-jeans%2Fp%2Fitmd7ba4224f5063%3Fpid%3DJEAGPVFVJFTEVZZ9%26lid%3DLSTJEAGPVFVJFTEVZZ9JFZR0F%26marketplace%3DFLIPKART%26cmpid%3Dcontent_jean_8965229628_gmc&psig=AOvVaw0CHySOr6VjI1pbsZ6fvSyl&ust=1740815828920000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICy4bzy5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sunglasses",
+                        "price": "$32.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fastrackeyewear.com%2Fsunglasses%2Fcolor%2Fblue&psig=AOvVaw2atHRvFbW-Aon9GFYhkZjb&ust=1740815866357000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICRuc3y5YsDFQAAAAAdAAAAABAJ",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Belt",
+                        "price": "$25.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FOxford-Fabric-Genuine-Leather-Buckle%2Fdp%2FB0C5QKJWL5&psig=AOvVaw1aUEhYe9l743FdPfP-sCyn&ust=1740815903972000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi0xeDy5YsDFQAAAAAdAAAAABAE",
+                        "category": "accessory"
+                    }
+                ]
+            },
+            {
+                "value": "#AFEEEE",
+                "color": "Pale Turquoise",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOJg0rMYN4m6gtnPOUzmw2Bn0DyLZ3AB9yeA&s",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftomandteddy.com%2Fproducts%2Fmens-shorts-turquoise-sea&psig=AOvVaw0EahYyTMbvivbgg4McWrBd&ust=1740815988331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCu9ofz5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Beach Sandals",
+                        "price": "$19.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myntra.com%2Fsandals%2Fbirkenstock%2Fbirkenstock-unisex-regular-width-teal-arizona-regular-comfort-sandals%2F19199104%2Fbuy&psig=AOvVaw30PiyC_hWT3LyWM9xnbLwH&ust=1740816055753000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMislKfz5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Tank Top",
+                        "price": "$14.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Foneillcanada.com%2Fproducts%2Fmens-heist-tank_sp2111100_tur&psig=AOvVaw3jR67V5sPOMLLI20ZR05vx&ust=1740816086597000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjc7LXz5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#E0FFFF",
+                "color": "Light Cyan",
+                "clothes": [
+                    {
+                        "name": "Polo Shirt",
+                        "price": "$34.99",
+                        "image": "https://imgs.search.brave.com/gGiZLpFEr7gDJsVmpMKIepUmJW3-kit-WybjHAK3Ef0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFwSmhsRkp3bkwu/anBn",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fmentific-self-design-men-mandarin-collar-light-green-t-shirt%2Fp%2Fitm2a6ac5aa3be23&psig=AOvVaw2pUniwk3ppQi9L2lq7TlFk&ust=1740816126854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjMk8rz5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Casual Shoes",
+                        "price": "$45.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fmen-light-blue-casual-sports-shoes-2852330151312.html&psig=AOvVaw3OFS992IUrfoRVqdWFi585&ust=1740816173741000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi3ieHz5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Baseball Cap",
+                        "price": "$16.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jackjones.in%2F296431106-summer-song&psig=AOvVaw3Mxo3A3QLYdV6h6TZG9Kh9&ust=1740816206153000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCBre_z5YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#F0F8FF",
+                "color": "Alice Blue",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thecollective.in%2Fp%2Fmen-blue-cable-knit-cotton-sweater-1029298.html&psig=AOvVaw2S31Yv48h_PsbnbQC-B2UO&ust=1740816262364000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiJvoz05YsDFQAAAAAdAAAAABAE",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FKoverify-unisex-Varsity-Baseball-University%2Fdp%2FB0CKBPNYVX&psig=AOvVaw1RHuHmke8QeaVYKM7XHbR4&ust=1740816297735000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDFn5v05YsDFQAAAAAdAAAAABAE",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Scarf",
+                        "price": "$23.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FGERINLY-Color-Block-Summer-Urbanstyle%2Fdp%2FB083DWC2C2&psig=AOvVaw35lS0EnN1xmn8I6NxG5zZ5&ust=1740816326331000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi_gar05YsDFQAAAAAdAAAAABAO",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Dress Shirt",
+                        "price": "$48.99",
+                        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblackberrys.com%2Fproducts%2Fformal_cobalt_solid_shirt_alice&psig=AOvVaw2iV8T42LHDyBSEm5Sxl3uP&ust=1740816400809000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD6vc305YsDFQAAAAAdAAAAABAE",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#D3D3D3",
+                "color": "Light Gray",
+                "clothes": [
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://m.media-amazon.com/images/I/61Tv18VIYPL.AC_UY1100.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/1zdcrbzV/redwolf-basics-heather-grey-premium-hoodie-india-600x800.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sneakers",
+                        "price": "$69.99",
+                        "image": "https://i.postimg.cc/Hs1mPKy5/397-40019-LA59.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Beanie",
+                        "price": "$12.99",
+                        "image": "https://i.postimg.cc/k5GDXZwG/creature-cotton-slouchy-beanie-with-ring-for-men-and-boys-light-grey-product-images-rvwv4nz67v-0-202.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#C0C0C0",
+                "color": "Silver",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/bw71GkV1/silver-color-round-neck-t-shirt-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://i.postimg.cc/N0Lfwzk4/fashiola-og.png",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Watch",
+                        "price": "$139.99",
+                        "image": "https://i.postimg.cc/B6kCCkMw/img-3376-3-500x500.jpg",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Dress Shoes",
+                        "price": "$79.99",
+                        "image": "https://i.postimg.cc/nL6k4NdS/PROM-1-SLV-A-grande.jpg",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#A9A9A9",
+                "color": "Dark Gray",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/NjRfGH3y/GMP00841-P000662-60304.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/FKQb101w/187654501-g1.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Boots",
+                        "price": "$74.99",
+                        "image": "https://i.postimg.cc/GhGxRMmv/WWWBOC-20272350157-10.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Winter Coat",
+                        "price": "$110.99",
+                        "image": "https://i.postimg.cc/FH2fKvCR/ubuy-200-OG-tag.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#808080",
+                "color": "Gray",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/1zdcrbzV/redwolf-basics-heather-grey-premium-hoodie-india-600x800.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/bw71GkV1/silver-color-round-neck-t-shirt-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sneakers",
+                        "price": "$58.99",
+                        "image": "https://i.postimg.cc/vBmLrbMs/mens-grey-canvas-casual-sneakers-shoes-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Cargo Pants",
+                        "price": "$45.99",
+                        "image": "https://i.postimg.cc/vTN2wZ7Y/658108d441f3a15d1f38752e-mrulic-jeans-for-men-cargo-wear-cargo.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#8B4513",
+                "color": "Saddle Brown",
+                "clothes": [
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://i.postimg.cc/dVtXkg3c/royal-spider-pure-leather-d-brown-jacket-for-men-rs-l006.png",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/N08r3C8L/men-brown-denim-jeans-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Boots",
+                        "price": "$85.99",
+                        "image": "https://i.postimg.cc/c4ZYmSf2/1-1320-Saddle-Brown-profile.png",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Belt",
+                        "price": "$22.99",
+                        "image": "https://i.postimg.cc/nzq8n7Rd/1-eeb649ae-544c-4d86-b3b7-2b1a943c97c9.png",
+                        "category": "accessory"
+                    }
+                ]
+            },
+            {
+                "value": "#A0522D",
+                "color": "Sienna",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/mDhr2dfb/dsc-7217-01-1.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/dVwZKP6d/image.webp",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sunglasses",
+                        "price": "$55.99",
+                        "image": "https://i.postimg.cc/nVKdJ7fP/sunski-polarized-sunglasss-headland-black-forest-featured-grande.jpg",
+                        "category": "accessory"
+                    },
+                    {
+                        "name": "Casual Shoes",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/W3Zs38wr/ALM3004-BROWNMAIN.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#D2691E",
+                "color": "Chocolate",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/FHXL39BV/brown-hoodie-for-men.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/kMkcYPHB/MHMJN13560-2.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Leather Jacket",
+                        "price": "$120.99",
+                        "image": "https://i.postimg.cc/FFJbLnKm/1-b0413ef7-206f-4c3b-a34d-d8f9ab3517ff-1200x1200.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Boots",
+                        "price": "$89.99",
+                        "image": "https://i.postimg.cc/9ffQVXHs/Shoe-10-4-2131b106-0734-4a79-96c1-4ea286e3fa54.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#CD853F",
+                "color": "Peru",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/dVwZKP6d/image.webp",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://i.postimg.cc/0Q4HHn9b/cotton-shorts-with-jeans-type-pocket-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sandals",
+                        "price": "$29.99",
+                        "image": "https://i.postimg.cc/jj4h7XDG/img-1139-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sun Hat",
+                        "price": "$17.99",
+                        "image": "https://i.postimg.cc/h4YVfjD8/austin-sand-wide-brim-beach-hat-front-view.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#F4A460",
+                "color": "Sandy Brown",
+                "clothes": [
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/QC5ftWTt/934943-11906112.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jacket",
+                        "price": "$89.99",
+                        "image": "https://i.postimg.cc/BnsPR1Zg/polyester-plain-brown-jacket-500x500.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Derby Shoes",
+                        "price": "$78.99",
+                        "image": "https://i.postimg.cc/j58hS42t/1-11.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Dress Pants",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/HxG2N9nL/bluebird-mens-sand-brown-formal-trouser-314159.jpg",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#DEB887",
+                "color": "Burly Wood",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/43r17QTg/1-8962132c-cd7f-40c1-9c9e-2cc9b26e0bdd-grande.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Jeans",
+                        "price": "$49.99",
+                        "image": "https://i.postimg.cc/Njx6fvdR/bootjean700-brown-1.png",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Baseball Cap",
+                        "price": "$12.99",
+                        "image": "https://i.postimg.cc/rpQNg2Wq/868571-10314951.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sneakers",
+                        "price": "$65.99",
+                        "image": "https://i.postimg.cc/J4ZGcwHv/product-jpeg-500x500.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FFA07A",
+                "color": "Light Salmon",
+                "clothes": [
+                    {
+                        "name": "Hoodie",
+                        "price": "$44.99",
+                        "image": "https://i.postimg.cc/B6KQ6Pr8/pink-men-500x500.png",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Shorts",
+                        "price": "$24.99",
+                        "image": "https://i.postimg.cc/NMFY99Z8/rich016-fost-shorts-l-3-500x500.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Flip Flops",
+                        "price": "$14.99",
+                        "image": "https://i.postimg.cc/KYFps6NR/kickonn-slider-for-men-s-light-weight-eva-sole-comfort-and-soft-best-for-walki-2118-black-goleemart.webp",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Swim Trunks",
+                        "price": "$29.99",
+                        "image": "https://i.postimg.cc/kXgbwfKq/CS3010-Male-Classic-Swim-Shorts-Faded-Pink-Spy-2.jpg",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FF8C69",
+                "color": "Salmon",
+                "clothes": [
+                    {
+                        "name": "T-shirt",
+                        "price": "$19.99",
+                        "image": "https://i.postimg.cc/8CsRzDTF/salmonpinkplaintshirtforwomenonlineindia.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sweater",
+                        "price": "$39.99",
+                        "image": "https://i.postimg.cc/TPWZ5z9w/SACOLANAOTTAWASALMON-1795x2560copia-701c764e-654d-4cb9-87f9-87888026f785-1200x1711.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sports Jacket",
+                        "price": "$59.99",
+                        "image": "https://i.postimg.cc/6QrTLm6W/81np-O5ij-QTL-AC-SL1500.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Casual Shoes",
+                        "price": "$45.99",
+                        "image": "https://i.postimg.cc/9FBhbHZN/brown-eva-men-casual-shoes-500x500.jpg",
+                        "category": "casual"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "gender": "female",
+        "colors": [
+            {
+                "value": "#FFDDC1",
+                "clothes": [
+                    {
+                        "name": "Casual Shirt",
+                        "price": "$29.99",
+                        "image": "https://thesparkshop.in/wp-content/uploads/2023/04/Custom-Fashion-Men-prime-S-Hawaiian-Shirt-Casual-Printed-Beach-Summer-Button-Down-Shirts.webp",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Summer Dress",
+                        "price": "$49.99",
+                        "image": "https://i5.walmartimages.com/asr/b66b50d6-487b-42bc-9d07-f1ce8e110385.10c9bf2e6316f42ff168ab3c765469f5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Kurta",
+                        "price": "$59.99",
+                        "image": "https://tiimg.tistatic.com/fp/1/007/644/blue-red-collor-neck-3-4-th-sleeve-new-model-design-breathable-kurtis-for-ladies-191.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Blazer",
+                        "price": "$89.99",
+                        "image": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87071518_99_B.jpg?imwidth=2048&imdensity=1&ts=1729514083431",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Gown",
+                        "price": "$99.99",
+                        "image": "https://4.imimg.com/data4/WH/VA/MY-33216248/evening-gown-500x500.jpg",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFE4E1",
+                "clothes": [
+                    {
+                        "name": "Formal Blouse",
+                        "price": "$39.99",
+                        "image": "https://dynamic.zacdn.com/5pmqNAU9tKn3RJLyboL5HyB08Dc=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/hopeshow-0078-4449663-1.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Lace Top",
+                        "price": "$35.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_gQrSXlOv4BlmtAd46NIglcAGzAHW234OaMRUV2Tw_nJVWegn6rH8_4Vnz6SMwfAgP0&usqp=CAU",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Saree",
+                        "price": "$79.99",
+                        "image": "https://www.sanatkada.in/cdn/shop/products/1K6AuK0da7VAynOE7gByxNoB86yjuoVfB.jpg?v=1693579773",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Party Dress",
+                        "price": "$89.99",
+                        "image": "https://di2ponv0v5otw.cloudfront.net/posts/2023/02/08/63e3de1804166d91d07a4c98/m_wp_63e3dea652eee199c5033c8d.webp",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFB6C1",
+                "clothes": [
+                    {
+                        "name": "Graphic T-Shirt",
+                        "price": "$19.99",
+                        "image": "https://i.etsystatic.com/17013040/r/il/d8ab62/2465487295/il_fullxfull.2465487295_5y99.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Knit Sweater",
+                        "price": "$59.99",
+                        "image": "https://m.media-amazon.com/images/I/81iBbES3fWL.AC_UY1100.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Lehenga",
+                        "price": "$129.99",
+                        "image": "https://rooprekha.com/cdn/shop/files/5_2_9d0391e0-5ee9-49a3-a890-4734f656ec4a.jpg?v=1702812005&width=1445",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Skirt",
+                        "price": "$49.99",
+                        "image": "https://5.imimg.com/data5/TC/NY/SZ/SELLER-24481907/women-formal-skirts.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Top",
+                        "price": "$39.99",
+                        "image": "https://www.alamodelabel.in/cdn/shop/files/6C69BDCA-5ECE-4E6B-B9AE-29901E43A552_600x.jpg?v=1717501124",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFC0CB",
+                "clothes": [
+                    {
+                        "name": "Floral Skirt",
+                        "price": "$34.99",
+                        "image": "https://m.media-amazon.com/images/I/61Gq7tVyFAL.AC_UY1000.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Cotton Pants",
+                        "price": "$44.99",
+                        "image": "https://frenchcrown.in/cdn/shop/products/WOT001_4.jpg?v=1692183048&width=3600",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Anarkali",
+                        "price": "$109.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtTbm_ZAEhpY041cJP0aMlSHqnUsXfXixQgCQ8dE_xTWXoiYCaDydYjDAixQfhqJKR5I&usqp=CAU",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Shirt",
+                        "price": "$59.99",
+                        "image": "https://i5.walmartimages.com/seo/Pier-17-Button-Down-Shirts-for-Women-3-4-Sleeve-Fitted-Dress-Shirt-and-Blouses-Work-Top-Medium-New-White_c9c74915-cc9a-49bb-89cf-b0df292ad9bd_1.bf32eb19fb245e028c5cee59861f0219.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Skirt",
+                        "price": "$69.99",
+                        "image": "https://i.ebayimg.com/thumbs/images/g/SeoAAOSwk-dniQEn/s-l140.jpg",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFDAB9",
+                "clothes": [
+                    {
+                        "name": "Silk Scarf",
+                        "price": "$25.99",
+                        "image": "https://i.ebayimg.com/images/g/XSMAAOSwlqpauA1t/s-l400.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Lightweight Cardigan",
+                        "price": "$49.99",
+                        "image": "https://m.media-amazon.com/images/I/81p+53DnELL.AC_UY1100.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Dupatta",
+                        "price": "$39.99",
+                        "image": "https://medias.utsavfashion.com/media/catalog/product/cache/1/image/500x/040ec09b1e35df139433887a97daa66f/b/a/bandhej-art-silk-dupatta-in-maroon-v1-bnj986.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Pants",
+                        "price": "$69.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUN0NBvECwx8WMkivaPAHoJBVDXCMJu394w&s",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Jacket",
+                        "price": "$79.99",
+                        "image": "https://www.noorainternational.biz/cdn/shop/products/TGRGT_1200x1200.jpg?v=1662189932",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFEFD5",
+                "clothes": [
+                    {
+                        "name": "Denim Jacket",
+                        "price": "$69.99",
+                        "image": "https://m.media-amazon.com/images/I/51HhfYO4cvL.AC.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Tunic Top",
+                        "price": "$29.99",
+                        "image": "https://images-cdn.ubuy.co.in/65f54f3450a7ee5c77398e45-ftcayanz-women-39-s-cotton-linen.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Blouse",
+                        "price": "$49.99",
+                        "image": "https://i.pinimg.com/236x/df/3e/70/df3e701b423a670b4be68a359694b8bf.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Dress",
+                        "price": "$89.99",
+                        "image": "https://i.pinimg.com/236x/64/e8/c6/64e8c667e91be1fb27f1e5879d8236cc.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Heels",
+                        "price": "$99.99",
+                        "image": "https://i.etsystatic.com/8664428/r/il/396b48/5771870209/il_570xN.5771870209_gt9y.jpg",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF8DC",
+                "clothes": [
+                    {
+                        "name": "Chiffon Blouse",
+                        "price": "$39.99",
+                        "image": "https://clothsvilla.com/cdn/shop/files/white-metalic-jimmy-choo-blouse-with-exquisite-sequence-embroidery_2_1024x1024.jpg?v=1726825887",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Pencil Skirt",
+                        "price": "$45.99",
+                        "image": "https://www.ifchic.com/p/3/8/4/0/3/38403-new_thickbox.webp?w=3840",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Gown",
+                        "price": "$119.99",
+                        "image": "https://m.media-amazon.com/images/I/41JywYQGb9L.SL500.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Blouse",
+                        "price": "$59.99",
+                        "image": "https://i.pinimg.com/736x/01/ca/5d/01ca5d39897923abff46311c39144a29.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Skirt",
+                        "price": "$69.99",
+                        "image": "https://i.etsystatic.com/22279588/r/il/1ff4ae/6202150283/il_fullxfull.6202150283_jni2.jpg",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFACD",
+                "clothes": [
+                    {
+                        "name": "Peplum Top",
+                        "price": "$35.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWrvD7Nui9OAW2dftfXrsiIp5a51p2xXMWZddMp2ockODBrRAMkjv4zSO6zwHbnIAVlc&usqp=CAU",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Maxi Dress",
+                        "price": "$55.99",
+                        "image": "https://editorialist.com/web/2023/8/025/970/169/25970169~green_0.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Lehenga",
+                        "price": "$129.99",
+                        "image": "https://i.pinimg.com/736x/b6/85/56/b68556db5f07ee03854ad632420dea61.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Pants",
+                        "price": "$69.99",
+                        "image": "https://media.istockphoto.com/id/941170052/photo/formal-dark-blue-ironing-pants.jpg?s=612x612&w=0&k=20&c=y73d4rTLOZ3IuTD5s9wu_--AYEK1OtjXvGhPFxz8Y9s=",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Dress",
+                        "price": "$89.99",
+                        "image": "https://i5.walmartimages.com/asr/f15a3383-e05c-4460-9d94-6070880bd950.da6f364146f8c4299adeb07fb4f34bd1.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFFFE0",
+                "clothes": [
+                    {
+                        "name": "Tank Top",
+                        "price": "$19.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDcLuGI19FroH42skSar16VhrDRH5ZSV_QA&s",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "High-Waist Jeans",
+                        "price": "$49.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlywBO_BB0zCsCV7bKrLK2VYpEjAzuWJnOWQ&s",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Kurta",
+                        "price": "$59.99",
+                        "image": "https://images.meesho.com/images/products/424274292/alx5o_512.webp",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Shirt",
+                        "price": "$59.99",
+                        "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/NQ/DH/NT/118480324/ladies-formal-shirt-500x500.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Top",
+                        "price": "$39.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTP8NtHMzv8AQJyRieJ3IqoNmT3ygtF5fZBU1Wp3ZKlAFzl3k2iLqRMak8harqf0fxW04&usqp=CAU",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#FFF5EE",
+                "clothes": [
+                    {
+                        "name": "Wrap Dress",
+                        "price": "$59.99",
+                        "image": "https://aroka.in/cdn/shop/files/vienna_dress_pinl.jpg?v=1736407539",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Oversized Sweater",
+                        "price": "$69.99",
+                        "image": "https://images-na.ssl-images-amazon.com/images/I/71BqAjHlkiL.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Saree",
+                        "price": "$79.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3M1apCsa-yfeK9g3b-rJsAI7F8q5EqsIGg&s",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Blazer",
+                        "price": "$89.99",
+                        "image": "https://i.pinimg.com/736x/e7/9e/4f/e79e4ff7322362548e989293978d2c66.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Gown",
+                        "price": "$99.99",
+                        "image": "https://images-na.ssl-images-amazon.com/images/I/71IEFXKsBrL.jpg",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#87CEEB",
+                "clothes": [
+                    {
+                        "name": "Blue Sundress",
+                        "price": "$39.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbzNklYlQecCiSl1hVr-sTNT_keBDa4OElRnjLj6YPBN1dONmQSxif881Cj9jA3uPfI8&usqp=CAU",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Striped Blouse",
+                        "price": "$29.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCYlvy9A-dU3_DZ-nrP8X2DaOublvLfrfL5g&s",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Traditional Lehenga",
+                        "price": "$129.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUhsdJ7lV0HbCScjAUrinA-ZRKmM3au2yTw&s",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Formal Skirt",
+                        "price": "$49.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIQUZH-zTHSwLwXcvsYk6Z7CMbEL8rNDh0Eitpv61droo9nceHaCM94RoNWWFwzYAH8U&usqp=CAU",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Party Dress",
+                        "price": "$89.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0KLWFtU2BdAD5_nIaSggqfbEHfOQLSlah8s0562yjMyDQwjA3t8devY7sZr7UeY1s88w&usqp=CAU",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#ADD8E6",
+                "clothes": [
+                    {
+                        "name": "Light Blue Jeans",
+                        "price": "$49.99",
+                        "image": "https://images.bestsellerclothing.in/data/vero-moda/21-nov-2022/102456003_g6.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto&dpr=1.2",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Denim Shirt",
+                        "price": "$34.99",
+                        "image": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87083275_TM_B.jpg?imwidth=2048&imdensity=1&ts=1732539907609",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Baby Blue Sweater",
+                        "price": "$39.99",
+                        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE75sRewaX7KsCKFzwcIgYZXFZWIogLvZSw&s",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sky Blue Scarf",
+                        "price": "$19.99",
+                        "image": "https://images.meesho.com/images/products/370213588/hayvo_512.webp",
+                        "category": "traditional"
+                    },
+                    {
+
+                        "name": "Charcoal Blazer",
+                        "price": "$79.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.RViffOKkK2ltDjhFZ3OW2wHaHa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Slate Grey Dress",
+                        "price": "$49.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.gLHd-CAiw5kV0oHpZNwkVQAAAA&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Ash Grey Scarf",
+                        "price": "$19.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.bmHl_PqjSlfkUGLtVT_7WAHaN4&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#C0C0C0",
+                "clothes": [
+                    {
+                        "name": "Silver Heels",
+                        "price": "$79.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.sBn8oPRt0-XDXaNNHnfGbAHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Metallic Top",
+                        "price": "$49.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.9guQWfKnKetxPpoE7Q62JQAAAA&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Silver Dress",
+                        "price": "$89.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.14SW5dhIe6pxHSvCtMb1qgHaJt&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Grey Metallic Jacket",
+                        "price": "$69.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.gI8REQFoAXRn4hjEsnrdagHaJ4&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Silver Scarf",
+                        "price": "$29.99",
+                        "image": "https://www.lulus.com/images/product/xlarge/1694512_276592.jpg",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#A9A9A9",
+                "clothes": [
+                    {
+                        "name": "Grey Jacket",
+                        "price": "$59.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.qqROawxe3ETAiBaeAaUMvwHaLH&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Charcoal Pants",
+                        "price": "$49.99",
+                        "image": "https://reignvintage.com/wp-content/uploads/magictoolbox_cache/8c95d73fec130487c102a73bf1ab42ce/2/2/22017/thumb900x900/633580424/IMG_5354.jpg",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Dark Grey Sweater",
+                        "price": "$39.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.JFIyXSzSQvtCINWXvfXotgHaKd&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Graphite Dress",
+                        "price": "$59.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.FzO4JxLlyeq1h9z6HxSHSAHaLH&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Grey Wool Scarf",
+                        "price": "$24.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.-_3oPcRv-hE7Q-1i5dQuoAHaJ4&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#808080",
+                "clothes": [
+                    {
+                        "name": "Grey T-Shirt",
+                        "price": "$19.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.hdLU-ecEBt2KaRqEX0RaWAHaHx&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Steel Cardigan",
+                        "price": "$39.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.LyZ7kURt9njMlv29Z-kCPQHaHa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Slate Grey Blouse",
+                        "price": "$29.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.XvhSdChernCZMwzQLLZszQHaLH&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Grey Cargo Pants",
+                        "price": "$44.99",
+                        "image": "https://i5.walmartimages.com/asr/f67270ab-90e3-41ad-8639-85135332413c_1.cf3b73fbf8d5d16b9486478b78dc314b.jpeg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Charcoal Scarf",
+                        "price": "$19.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.T6FHFLPAbAr78zm0VL4-tQHaEo&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#8B4513",
+                "clothes": [
+                    {
+                        "name": "Brown Leather Jacket",
+                        "price": "$89.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.GpBiETtAxRiOtK3Tw7X1tgHaJc&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Tan Boots",
+                        "price": "$129.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.37xUOpsQoNMgNDJaDDPCZwHaJS&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Rustic Brown Sweater",
+                        "price": "$49.99",
+                        "image": "https://n.nordstrommedia.com/id/sr3/6227fbea-0aae-4fa3-843e-3f18d0b626d2.jpeg?h=365&w=240&dpr=2",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Chocolate Brown Dress",
+                        "price": "$59.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.tTPiwjpW0tY6n_ingb_J-gHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Brown Wool Scarf",
+                        "price": "$24.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.YRlVjIVV8l-Feq2Xu1mhjAHaJ4&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#A0522D",
+                "clothes": [
+                    {
+                        "name": "Rust Sweater",
+                        "price": "$39.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.KfA6baHFWCYeNr_RIBpXxgHaJ4&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Copper Scarf",
+                        "price": "$25.99",
+                        "image": "https://d49ohm0ne1s0e.cloudfront.net/modules/eshop3/products/backgrounds/13/1280_14.jpg",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Terracotta Blouse",
+                        "price": "$34.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.Q4hvqGHdlpZV7nUDlpsaWAHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Rustic Red Pants",
+                        "price": "$44.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.ttuS10Mdh2R6-4SW63S7nAHaLH&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Burnt Orange Dress",
+                        "price": "$59.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.MgcE2KJHNJVkhal6EXauGAHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    }
+                ]
+            },
+            {
+                "value": "#D2691E",
+                "clothes": [
+                    {
+                        "name": "Cinnamon Shirt",
+                        "price": "$29.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.CfC1n31W71MSKLwDpckpGgHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Chocolate Skirt",
+                        "price": "$49.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.EBKB3IoI-BSa2PhB9o7xUgHaJ4&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Spice Brown Blazer",
+                        "price": "$79.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.fJ7wxPga6cmzbZYXxYV_RwHaIa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Caramel Cardigan",
+                        "price": "$44.99",
+                        "image": "https://kidsonthemoon.com/wp-content/uploads/2022/05/sweter-karmel-800x1120.jpg",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Cinnamon Scarf",
+                        "price": "$19.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.Rs2gaYLO3dyE81ZOEnlHrQHaLT&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#CD853F",
+                "clothes": [
+                    {
+                        "name": "Caramel Coat",
+                        "price": "$99.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.nICaYrsmYfWbFD27MaUHqwHaHa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Bronze Shoes",
+                        "price": "$79.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.hqT6_SMXCW18X2bMyOgOmwHaFj&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Tan Blouse",
+                        "price": "$34.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.duoBKyu089eY4AnnTx-OnwHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Caramel Skirt",
+                        "price": "$44.99",
+                        "image": "https://www.chicwish.com/media/catalog/product/cache/789a34736ead3066d85296b038a5aa03/8/1/81025c.25.jpg",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Bronze Scarf",
+                        "price": "$24.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.JnnAOOoqTOlZKNtxDGDIMwHaLU&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#F4A460",
+                "clothes": [
+                    {
+                        "name": "Sandy Dress",
+                        "price": "$55.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.vUWXNMab8XqKmQ5tKt5Y2wHaJS&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Peach Blouse",
+                        "price": "$29.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.gBuRfjGrl0J3GEw4fctHyAHaJ4&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Apricot Cardigan",
+                        "price": "$44.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.zwB-nJiwA9y8ksKybsBsXQHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Sandy Shorts",
+                        "price": "$34.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.2fPpaj8o9GHyrQjRgGw0YgHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Peach Scarf",
+                        "price": "$19.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.4hVPZnZ1AfNFbl_BxG9NPAAAAA&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#DEB887",
+                "clothes": [
+                    {
+                        "name": "Beige Coat",
+                        "price": "$79.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.lPNL2LUc4v4PJLzsjjzuzgHaLH&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Taupe Pants",
+                        "price": "$49.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.wol_VvccCgiWUblzkaotowHaHa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Beige Blouse",
+                        "price": "$34.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.TlIWFJGOPjgoK8_2j2wd7QHaLH&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Taupe Dress",
+                        "price": "$59.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.zJ7r-Y8PFbRM_cDdIFjIJQHaLH&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Beige Scarf",
+                        "price": "$19.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP._7g3M5yDas4lRK5tYwTp1QHaJ4&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    }
+                ]
+            },
+            {
+                "value": "#FFA07A",
+                "clothes": [
+                    {
+                        "name": "Salmon Tunic",
+                        "price": "$39.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.0hTKEi5uXEjixS90nae5LAHaLu&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Coral Skirt",
+                        "price": "$29.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.6RA02L08gywO22PHTN6VlwHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Peach Blazer",
+                        "price": "$55.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.bWRrJoAaHZ3kTVXhPZ0dNAEsEs&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    },
+                    {
+                        "name": "Salmon Flats",
+                        "price": "$34.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.cLktKgGZkoFy0JcG-wyeZQHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FF8C69",
+                "clothes": [
+                    {
+                        "name": "Blush Blouse",
+                        "price": "$24.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.NOuag0FgoRzvKk2ctzs2JQHaLH&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Pink Trousers",
+                        "price": "$44.99",
+                        "image": "https://tse4.mm.bing.net/th?id=OIP.of3ibDWmjH1is3mt_Lb1NQAAAA&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Coral Cardigan",
+                        "price": "$42.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.SSDJtbhH-tRa1bxAxJg8UQHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Rose Gold Sneakers",
+                        "price": "$60.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.NXFXIvpHfJyiZYdsnftoVAHaHa&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    }
+                ]
+            },
+            {
+                "value": "#FF7F50",
+                "clothes": [
+                    {
+                        "name": "Coral Sweater",
+                        "price": "$35.99",
+                        "image": "https://tse3.mm.bing.net/th?id=OIP.hrhsm33Ku1JCRzxcWzRMsAHaJb&pid=Api&P=0&h=180",
+                        "category": "casual"
+                    },
+                    {
+                        "name": "Orange Pants",
+                        "price": "$39.99",
+                        "image": "https://tse2.mm.bing.net/th?id=OIP.7hHedxLu_JF4VmVBvhwhLwHaHa&pid=Api&P=0&h=180",
+                        "category": "party"
+                    },
+                    {
+                        "name": "Pumpkin Scarf",
+                        "price": "$18.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.ljPLbiwZZiDqwbLEE8z1CgHaHa&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Burnt Orange Blazer",
+                        "price": "$70.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.hYhASkyOQz34dokHJGxNJAHaHa&pid=Api&P=0&h=180",
+                        "category": "formal"
+                    }
+                ]
+            },
+            {
+                "value": "#FF6347",
+                "clothes": [
+                    {
+                        "name": "Tomato Top",
+                        "price": "$29.99",
+                        "image": "https://tse1.mm.bing.net/th?id=OIP.EG6K4XDssBFP2FsS_bbW0wHaHa&pid=Api&P=0&h=180",
+                        "category": "traditional"
+                    },
+                    {
+                        "name": "Rust Shorts",
+                        "price": "$19.99",
+                        "image": "https://tse3.mm.bing.net/th?id=",
+                        "category":"accessory"
+}
+                ]
+            }
+        ]
+    }
+]
