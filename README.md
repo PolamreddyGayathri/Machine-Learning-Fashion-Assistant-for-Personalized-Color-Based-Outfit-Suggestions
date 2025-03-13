@@ -12,12 +12,6 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
 
 ## ⚙️ Installation Guide  
 
-### 🔹 **Clone the Repository**  
-```sh
-git clone https://github.com/PolamreddyGayathri/Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions.git
-cd Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions
-```
-
 ### 🔹 **Frontend Setup**
 ``` sh
 cd frontend
