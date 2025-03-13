@@ -10,15 +10,13 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
 ## Prerequisites
 
 <div align="left">
-  <img alt="ReactJs" src="img/React.png" height="70" width="70"/>
-  <img alt="MongoDB" src="img/MongoDB.png" height="70" width="70"/>
-  <img alt="Python" src="img/Python.png" height="70" width="70"/>
-  <img alt="FastAPI" src="img/FastAPI.png" height="70" width="70"/>
-  <img alt="Numpy" src="img/NumPy.png" height="70" width="70"/>
-  <img alt="OpenCV" src="img/OpenCV.png" height="70" width="70"/>
-  <img alt="Pandas" src="img/Pandas.png" height="70" width="70"/>
-  <img alt="Pytorch" src="img/PyTorch.png" height="70" width="70"/>
-  <img alt="Scikit-Learn" src="img/scikit-learn.png" height="70" width="70"/>
+  <img alt="ReactJs" src="img/React.png" height="55" width="55"/>
+  <img alt="MongoDB" src="img/MongoDB.png" height="55" width="55"/>
+  <img alt="Python" src="img/Python.png" height="55" width="55"/>
+  <img alt="FastAPI" src="img/FastAPI.png" height="55" width="55"/>
+  <img alt="Numpy" src="img/NumPy.png" height="55" width="55"/>
+  <img alt="OpenCV" src="img/OpenCV.png" height="55" width="55"/>
+  <img alt="Pandas" src="img/Pandas.png" height="55" width="55"/>
 </div>
 
 ## ⚙️ Installation Guide  
