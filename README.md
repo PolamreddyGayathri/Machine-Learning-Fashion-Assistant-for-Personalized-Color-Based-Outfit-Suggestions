@@ -9,9 +9,6 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
 - **🔍 Color Palette Generation** – Applies **K-Means clustering** to extract a **personalized color palette**.  
 - **👕 Outfit Recommendation System** – Implements **Content-Based & Hybrid Filtering** for intelligent suggestions.  
 - **❤️ Wishlist Feature** – Users can **save favorite outfits** for future reference.  
-- **🌐 Web-Based Interface** – Built with **React.js (Frontend)** and **FastAPI (Backend)** for an interactive experience.  
-
----
 
 ## ⚙️ Installation Guide  
 
