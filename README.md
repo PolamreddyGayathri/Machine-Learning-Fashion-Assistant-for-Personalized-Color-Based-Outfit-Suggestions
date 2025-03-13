@@ -5,7 +5,43 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
 - **🎨 Skin Tone & Eye Color Detection** – Uses **Deep Learning & OpenCV** to analyze facial features.  
 - **🔍 Color Palette Generation** – Applies **K-Means clustering** to extract a **personalized color palette**.  
 - **👕 Outfit Recommendation System** – Implements **Content-Based & Hybrid Filtering** for intelligent suggestions.  
-- **❤️ Wishlist Feature** – Users can **save favorite outfits** for future reference.  
+- **❤️ Wishlist Feature** – Users can **save favorite outfits** for future reference. 
+
+## 📄 Requirements
+
+``` sh
+# FastAPI & Web Server
+fastapi
+uvicorn
+
+# Image Processing & Computer Vision
+opencv-python
+numpy
+pillow
+
+# Machine Learning & Deep Learning
+torch
+torchvision
+torchaudio
+tqdm
+
+# Pre-trained Model Support (FARL, ResNet, YOLO)
+transformers
+timm  
+ultralytics  
+
+# Clustering for Color Palette Extraction
+scikit-learn
+
+# Recommendation System
+pandas
+scipy
+
+# CORS (For Backend-Frontend Communication)
+fastapi[all]
+python-multipart
+
+```
 
 ## ⚙️ Installation Guide  
 
@@ -13,13 +49,14 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
 ``` sh
 cd frontend
 npm install
-npm start
+npm run start
 ```
 
 ### 🔹 **Backend Setup**
 ``` sh
 cd backend
 pip install -r requirements.txt
+npm run start
 uvicorn app:app --reload
 ```
 
