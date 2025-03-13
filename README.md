@@ -1,31 +1,38 @@
 # 👗 Machine Learning Fashion Assistant  
 ### Personalized Color-Based Outfit Suggestions  
 
-##  Overview  
-This project is a **fashion assistant** that detects **skin tone and eye color** from user-uploaded images and recommends **personalized outfit colors** based on detected features. It also allows users to **save favorite outfits** and interact with a **user-friendly web interface**.
+## 📌 Overview  
+The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **skin tone and eye color** from user-uploaded images and recommends **personalized outfit colors** based on detected features. The system incorporates **deep learning, computer vision, and recommendation algorithms** to enhance users' fashion choices.  
 
-##  Features  
-1️. **Skin Tone & Eye Color Detection**: Uses **Deep Learning & OpenCV** to analyze facial features.  
-2️. **Color Palette Generation**: Uses **K-Means clustering** to extract a **personalized color palette**.  
-3️. **Outfit Recommendation System**: Uses **Content-Based & Hybrid Filtering** for recommendations.  
-4️. **Wishlist Feature**: Users can **save favorite outfits** for future reference.  
-5️. **Web-Based Interface**: Developed using **React.js (Frontend)** and **FastAPI (Backend)**.  
+## ✨ Features  
+- **🎨 Skin Tone & Eye Color Detection** – Uses **Deep Learning & OpenCV** to analyze facial features.  
+- **🔍 Color Palette Generation** – Applies **K-Means clustering** to extract a **personalized color palette**.  
+- **👕 Outfit Recommendation System** – Implements **Content-Based & Hybrid Filtering** for intelligent suggestions.  
+- **❤️ Wishlist Feature** – Users can **save favorite outfits** for future reference.  
+- **🌐 Web-Based Interface** – Built with **React.js (Frontend)** and **FastAPI (Backend)** for an interactive experience.  
 
 ---
 
-##  Installation Guide  
+## ⚙️ Installation Guide  
 
-### **Clone the Repository**  
+### 🔹 **Clone the Repository**  
 ```sh
-git clone (https://github.com/PolamreddyGayathri/Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions.git)
-## **Frontend**  
-cd color_analysis
-cd frontend 
-npm run start 
+git clone https://github.com/PolamreddyGayathri/Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions.git
+cd Machine-Learning-Fashion-Assistant-for-Personalized-Color-Based-Outfit-Suggestions
+```
 
-## **Backend**
-cd backend 
+### 🔹 **Frontend Setup**
+``` sh
+cd frontend
+npm install
 npm start
-## **Run**
-python -m uvicorn app:app —reload
+```
+
+### 🔹 **Backend Setup**
+``` sh
+cd backend
+pip install -r requirements.txt
+uvicorn app:app --reload
+```
+
 
