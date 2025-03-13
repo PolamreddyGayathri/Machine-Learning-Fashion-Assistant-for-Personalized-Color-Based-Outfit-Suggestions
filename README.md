@@ -1,11 +1,13 @@
 ## 👗 Machine Learning Fashion Assistant Personalized Color-Based Outfit Suggestions  
-The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **skin tone and eye color** from user-uploaded images and recommends **personalized outfit colors** based on detected features. The system incorporates **deep learning, computer vision, and recommendation algorithms** to enhance users' fashion choices.  
+The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **skin tone and eye color** from user-uploaded images and recommends **personalized outfit colors** based on detected features. The system incorporates **deep learning and recommendation algorithms** to enhance users' fashion choices.  
+
 
 ## ✨ Features  
-- **🎨 Skin Tone & Eye Color Detection** – Uses **Deep Learning & OpenCV** to analyze facial features.  
-- **🔍 Color Palette Generation** – Applies **K-Means clustering** to extract a **personalized color palette**.  
-- **👕 Outfit Recommendation System** – Implements **Content-Based & Hybrid Filtering** for intelligent suggestions.  
-- **❤️ Wishlist Feature** – Users can **save favorite outfits** for future reference. 
+- **🎨 Smart Detection** – Identifies skin tone and eye color for personalized fashion choices.  
+- **🔍 Custom Color Palette** – Suggests colors that complement the user's features.  
+- **👕 AI-Powered Recommendations** – Provides outfit suggestions tailored to individual preferences.  
+- **❤️ Wishlist Feature** – Allows users to save and revisit their favorite outfit ideas.  
+
 
 ## Prerequisites
 
@@ -15,9 +17,9 @@ The **Machine Learning Fashion Assistant** is an AI-powered tool that detects **
   <img alt="Python" src="img/Python.png" height="55" width="55"/>
   <img alt="FastAPI" src="img/FastAPI.png" height="55" width="55"/>
   <img alt="Numpy" src="img/NumPy.png" height="55" width="55"/>
-  <img alt="OpenCV" src="img/OpenCV.png" height="55" width="55"/>
   <img alt="Pandas" src="img/Pandas.png" height="55" width="55"/>
 </div>
+
 
 ## ⚙️ Installation Guide  
 
