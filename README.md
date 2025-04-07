@@ -1,4 +1,4 @@
-"# Bus Management System" 
+
 ## 👗 Machine Learning Fashion Assistant Personalized Color-Based Outfit Suggestions  
 The *Machine Learning Fashion Assistant* is an AI-powered tool that detects *skin tone and eye color* from user-uploaded images and recommends *personalized outfit colors* based on detected features. The system incorporates *deep learning and recommendation algorithms* to enhance users' fashion choices.  
 
